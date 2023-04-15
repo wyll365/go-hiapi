@@ -1,4 +1,4 @@
-module go-hiapi/go-hiapi-basic-common
+module github.com/wyll365/go-hiapi/go-hiapi-basic-common
 
 go 1.20
 
